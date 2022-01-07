@@ -31,9 +31,10 @@ as you can see from above image ResNet18 has 3 input channels in conv1 layer  an
 We use Mean Squared Error to evaluate our model and use it as loos function of the model .AFter Training the model for 200 epochs with learning learning rate 1e-4
 I got MSE of 64 on validation and 24 on training data 
 and if i visualize the image and the predicted bounding boxes we get the iamge as shown in the figure below 
+
+
+
 ![image](https://user-images.githubusercontent.com/64350022/148532842-2f7708e4-edf5-45c7-844a-ca3529d8f4d2.png)
-
-
 
 
 where white box indicates the predicted box
