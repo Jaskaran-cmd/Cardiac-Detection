@@ -1,6 +1,7 @@
 # Cardiac-Detection
 
-An enlarged heart may be the result of a short-term stress on the body, such as pregnancy, or a medical condition, such as the weakening of the heart muscle, coronary artery disease, heart valve problems or abnormal heart rhythms. But the Detection of the enlarged heart involves processing the dicom images and manually annotate the bounding boxes around the heart . So why not automate the process of putting bounding boxes around the heart 
+An enlarged heart may be the result of a short-term stress on the body, such as pregnancy, or a medical condition, such as the weakening of the heart muscle, coronary artery disease, heart valve problems or abnormal heart rhythms. But the Detection of the enlarged heart involves processing the dicom images and manually annotate the bounding boxes around the heart . So why not automate the process of putting bounding boxes around the heart .The Image Data and the CSV files can be found at kaggle and the link is provided below 
+https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/discussion/70427
 
 # Preprocessing
 
